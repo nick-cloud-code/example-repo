@@ -1,8 +1,15 @@
 body{
     background-color: grey;
-    color: blue;
 }
 
 h2{
-    color: reed;
+    color: red;
+    font-style: 34rem;
+}
+
+textarea{
+    width: 20rem;
+    height: 80px;
+    border: 2px solid blueviolet;
+    border-radius: 12px;
 }
