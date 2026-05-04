@@ -1,4 +1,7 @@
 # hash tag for header
-some details
+
+some details!
 
 ## Double hash tag for sub-heading
+
+also some text here!
