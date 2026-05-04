@@ -1,8 +1,7 @@
-# hash tag for header
+# SMALL HTML
 
-some details!
+created some html file
 
-## Double hash tag for sub-header
+## PLUS CSS
 
-also some text here!
-then continue with the changes
+also css
